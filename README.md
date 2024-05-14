@@ -2,6 +2,7 @@
 ### Hi there 👋
 
 ### 📫 연락을 기다립니다 ⬇
+if( 010-3288-1640 || abm1640@naver.com )
 
 <!--
 **byeongmin-publishing/byeongmin-publishing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
