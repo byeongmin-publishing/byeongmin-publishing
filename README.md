@@ -1,8 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 ### Hi there 👋
 
-### 📫 연락을 기다립니다 ⬇
-if( 010-3288-1640 || abm1640@naver.com )
+### 📫 연락을 기다립니다 0️⃣1️⃣0️⃣3️⃣2️⃣8️⃣8️⃣1️⃣6️⃣4️⃣0️⃣
 
 <!--
 **byeongmin-publishing/byeongmin-publishing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
