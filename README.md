@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render%20render&fontSize=90" />
 ### Hi there 👋
 
-<div style="text-align:center;">
+<div align="center">
   <h1>Here are some ideas to get you started:</h1>
   <h2>Here are some ideas to get you started:</h2>
   <h3>Here are some ideas to get you started:</h3>
