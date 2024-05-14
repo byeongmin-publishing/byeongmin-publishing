@@ -5,14 +5,13 @@
   #저는  
 
   #프로젝트  
-  *2024
-  -충북
-  +메인
-  -연천
-  +메인
-  *2023
-  -충북
-  +메인
+  * 2024
+    - 충북
+      + 메인
+      + 서브
+  * 2023
+    - 연천
+      + 메인
 </div>
 <!--
 **byeongmin-publishing/byeongmin-publishing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
