@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render%20render&fontSize=90" />
 ### Hi there 👋
+<div style="width:100%;height:300px;background-image:linear-gradient(to top left, #4299FF, #154488);"></div>
 
 <h1>Here are some ideas to get you started:</h1>
 <h2>Here are some ideas to get you started:</h2>
