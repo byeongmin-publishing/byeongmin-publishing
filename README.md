@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render%20render&fontSize=90" />
 ### Hi there 👋
 
-  #저는  
+  # 저는  
 
-  #프로젝트  
+  # 프로젝트  
   * 2024
     - 충북
       + 메인
