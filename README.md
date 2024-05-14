@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render%20render&fontSize=90" />
 ### Hi there 👋
 
-<div align="center">
   #저는  
 
   #프로젝트  
@@ -12,7 +11,6 @@
   * 2023
     - 연천
       + 메인
-</div>
 <!--
 **byeongmin-publishing/byeongmin-publishing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
