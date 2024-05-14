@@ -1,4 +1,4 @@
-<img width="846" alt="github_readme_top" src="https://github.com/byeongmin-publishing/byeongmin-publishing/assets/114711496/5a0ffe80-f56c-4f26-a563-8b271b9f3792">
+<img width="1012" alt="Frame 2" src="https://github.com/byeongmin-publishing/byeongmin-publishing/assets/114711496/8c17fd64-7f84-497d-945f-865423bbc061">
 ### Hi there 👋
 
   # 저는  
