@@ -2,7 +2,7 @@
 
   # 🤔 저는  
   ### SKILL
-  <img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=#FF9A00"/>
+  <img src="https://img.shields.io/badgeIllustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
 
   # 💬 프로젝트  
   * **2024**
