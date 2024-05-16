@@ -28,7 +28,7 @@
     - 광명시 공동주택 공동체활성화
       + [(메인) 광명공동주택](https://www.gm.go.kr/withapt/index.do)
     - 구리
-      + [(메인) 구리청년포털](https://www.guri.go.kr/youth/index.do)
+      + [(메인) 구리시 청년포털](https://www.guri.go.kr/youth/index.do)
 <!--
 **byeongmin-publishing/byeongmin-publishing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
