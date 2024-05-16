@@ -3,9 +3,10 @@
   ## 🤔 저는  
 
   ## 💬 프로젝트  
-  ### 2024
-  * 2023 구리시 홈페이지 유지보수
-    - [연천군청 아우른군민 메인페이지](https://www.yeoncheon.go.kr/cyber/index.do)
+  * **2024**
+    - 연천군 홈페이지 전면개편사업 - (메인, 서브)
+      + [https://www.yeoncheon.go.kr/cyber/index.do](https://www.yeoncheon.go.kr/cyber/index.do)
+    - 
     - [구리 청년포털 메인페이지](https://www.guri.go.kr/youth/index.do)
     - [구리 청년포털 메인페이지](https://www.guri.go.kr/youth/index.do)
     - [구리 청년포털 메인페이지](https://www.guri.go.kr/youth/index.do)
