@@ -23,8 +23,8 @@
       + [(메인, 서브) 화학규제지원센터(영)](https://reach.ktr.or.kr/en/index.do)
       + [(메인, 서브) 화학규제지원센터(일)](https://reach.ktr.or.kr/jp/index.do)
     - 남양주시 전면개편
-      + [(메인) 문화관광](https://www.nyj.go.kr/museum/index.do)
-      + [(메인) 남양주시립박물관](https://www.nyj.go.kr/culture/index.do)
+      + [(메인) 남양주시립박물관](https://www.nyj.go.kr/museum/index.do)
+      + [(메인) 문화관광](https://www.nyj.go.kr/culture/index.do)
     - 광명시 공동주택 공동체활성화
       + [(메인) 공동주택](https://www.gm.go.kr/withapt/index.do)
     - 구리시 홈페이지 유지보수
