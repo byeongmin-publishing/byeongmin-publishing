@@ -4,8 +4,8 @@
 
   ## 💬 프로젝트  
   * 2024
-    - 충북
-      + 메인
+    - 2023 구리시 홈페이지 유지보수
+      + 메인 <a href="https://www.guri.go.kr/youth/index.do">https://www.guri.go.kr/youth/index.do</a>
       + 서브
   * 2023
     - 연천
