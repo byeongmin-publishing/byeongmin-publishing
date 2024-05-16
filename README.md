@@ -6,7 +6,7 @@
   * 2024
     - 2023 구리시 홈페이지 유지보수
       + 메인 <a target="_blank" href=""></a>
-      + [구리 청년포털 메인페이지](https://www.guri.go.kr/youth/index.do)/)
+      + [구리 청년포털 메인페이지](https://www.guri.go.kr/youth/index.do)
   * 2023
     - 연천
       + 메인
