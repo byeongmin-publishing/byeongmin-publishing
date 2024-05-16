@@ -6,7 +6,7 @@
   * 2024
     - 2023 구리시 홈페이지 유지보수
       + 메인 <a target="_blank" href="https://www.guri.go.kr/youth/index.do">https://www.guri.go.kr/youth/index.do</a>
-      + 서브
+      + [네이버 바로가기](http://www.naver.com/)
   * 2023
     - 연천
       + 메인
