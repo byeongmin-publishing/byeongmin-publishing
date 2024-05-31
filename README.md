@@ -8,10 +8,11 @@
   # 💬 프로젝트  
   * **2024**
     - 연천군 홈페이지 전면개편사업
-      + [(메인, 서브) 연천군청 아우른군민](https://www.yeoncheon.go.kr/cyber/index.do){: target="_blank"}
+      + [링크이름](링크주소){: target="_blank"}
+      + [(메인, 서브) 연천군청 아우른군민](https://www.yeoncheon.go.kr/cyber/index.do)
     - 충청북도 웹사이트 통합유지관리
-      + [(메인) 자치경찰위원회](https://www.chungbuk.go.kr/cbppc/index.do){: target="_blank"}
-      + [(메인) 충북도립교향악단](https://cbfarm.chungbuk.go.kr/art/index.do){: target="_blank"}
+      + [(메인) 자치경찰위원회](https://www.chungbuk.go.kr/cbppc/index.do)
+      + [(메인) 충북도립교향악단](https://cbfarm.chungbuk.go.kr/art/index.do)
   * **2023**
     - 구리시 홈페이지 유지관리
       + [(메인) 열린시장실](https://www.guri.go.kr/mayor/index.do)
