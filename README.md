@@ -8,7 +8,7 @@
   # 💬 프로젝트  
   * **2024**
     - 연천군 홈페이지 전면개편사업
-      + <a href="[http://example.com/](https://www.yeoncheon.go.kr/cyber/index.do)" target="_blank">(메인, 서브) 연천군청 아우른군민</a>
+      + <a href="https://www.yeoncheon.go.kr/cyber/index.do" target="_blank">(메인, 서브) 연천군청 아우른군민</a>
     - 충청북도 웹사이트 통합유지관리
       + [(메인) 자치경찰위원회](https://www.chungbuk.go.kr/cbppc/index.do)
       + [(메인) 충북도립교향악단](https://cbfarm.chungbuk.go.kr/art/index.do)
