@@ -7,29 +7,45 @@
 
   # 💬 프로젝트  
   * **2024**
-    - 연천군 홈페이지 전면개편사업
-      + [(메인, 서브) 연천군청 아우른군민](https://www.yeoncheon.go.kr/cyber/index.do)
-    - 충청북도 웹사이트 통합유지관리
-      + [(메인) 자치경찰위원회](https://www.chungbuk.go.kr/cbppc/index.do)
-      + [(메인) 충북도립교향악단](https://cbfarm.chungbuk.go.kr/art/index.do)
+    - 연천군청 아우른군민 (메인, 서브)
+      + [현행페이지](https://www.yeoncheon.go.kr/cyber/index.do)
+      + [작업페이지)]()
+    - 충청북도 자치경찰위원회 (메인)
+      + [현행페이지](https://www.chungbuk.go.kr/cbppc/index.do)
+      + [작업페이지)]()
+    - 충청북도 충북도립교향악단 (메인)
+      + [현행페이지](https://cbfarm.chungbuk.go.kr/art/index.do)
+      + [작업페이지)]()
   * **2023**
-    - 구리시 홈페이지 유지관리
-      + [(메인) 열린시장실](https://www.guri.go.kr/mayor/index.do)
-    - 충청북도 웹사이트 통합유지관리
-      + [(메인) 충북나드리](https://tour.chungbuk.go.kr/www/index.do)
-      + [(메인) 청년포털](https://www.chungbuk.go.kr/young/index.do)
-    - 음성군 홈페이지 운영환경 개선 및 전면 개편 사업
-      + [(메인) 열린군수실](https://www.eumseong.go.kr/mayor/index.do)
-      + [(메인) 청소년문화의집](https://www.eumseong.go.kr/esyouth/index.do)
-    - 화학규제지원센터/화학안전팀 홈페이지 고도화 사업
-      + [(메인, 서브) 화학규제지원센터(한)](https://reach.ktr.or.kr/www/index.do)
-      + [(메인, 서브) 화학규제지원센터(영)](https://reach.ktr.or.kr/en/index.do)
-      + [(메인, 서브) 화학규제지원센터(일)](https://reach.ktr.or.kr/jp/index.do)
-    - 남양주시 전면개편
-      + [(메인) 남양주시립박물관](https://www.nyj.go.kr/museum/index.do)
-      + [(메인) 문화관광](https://www.nyj.go.kr/culture/index.do)
-    - 광명시 공동주택 공동체활성화
-      + [(메인) 공동주택](https://www.gm.go.kr/withapt/index.do)
+    - 구리시 열린시장실 (메인)
+      + [현행페이지](https://www.guri.go.kr/mayor/index.do)
+      + [작업페이지)]()
+    - 충북나드리 (메인)
+      + [현행페이지](https://tour.chungbuk.go.kr/www/index.do)
+      + [작업페이지)]()
+    - 충청북도 청년포털 (메인)
+      + [현행페이지](https://www.chungbuk.go.kr/young/index.do)
+      + [작업페이지)]()
+    - 음성군 열린군수실 (메인)
+      + [현행페이지](https://www.eumseong.go.kr/mayor/index.do)
+      + [작업페이지)]()
+    - 음성군 청소년문화의집 (메인)
+      + [현행페이지](https://www.eumseong.go.kr/esyouth/index.do)
+      + [작업페이지)]()
+    - 화학규제지원센터 (메인, 서브)
+      + [(현행페이지) 화학규제지원센터(한)](https://reach.ktr.or.kr/www/index.do)
+      + [(현행페이지) 화학규제지원센터(영)](https://reach.ktr.or.kr/en/index.do)
+      + [(현행페이지) 화학규제지원센터(일)](https://reach.ktr.or.kr/jp/index.do)
+      + [작업페이지)]()
+    - 남양주시 남양주시립박물관 (메인)
+      + [현행페이지](https://www.nyj.go.kr/museum/index.do)
+      + [작업페이지]()
+    - 남양주시 문화관광 (메인)
+      + [현행페이지](https://www.nyj.go.kr/culture/index.do)
+      + [작업페이지]()
+    - 광명시 공동주택 공동주택 공동체활성화 (메인)
+      + [현행페이지](https://www.gm.go.kr/withapt/index.do)
+      + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/gm/site/withapt/main.html)
     - 구리시 청년포털 (메인)
       + [현행페이지](https://www.guri.go.kr/youth/index.do)
       + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/guri/site/youth/main.html)
