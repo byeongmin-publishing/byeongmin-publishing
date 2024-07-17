@@ -1,11 +1,22 @@
 <img width="1012" alt="안녕하세요! 안병민입니다. 퍼블리셔입니다!" src="https://github.com/byeongmin-publishing/byeongmin-publishing/assets/114711496/8c17fd64-7f84-497d-945f-865423bbc061">
 
-  # 🤔 저는  
-  ### SKILL
- 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+## 🤔 저는
+현재 한신정보기술에서 재직 중인 **퍼블리셔 안병민** 입니다!<br>
+**다양한 디바이스 및 브라우저 호환성을 고려한 작업**을 진행합니다.<br>
+[포트폴리오 >](https://byeongmin-publishing.github.io/Portfolio/)
+  
+### **Profile**
+ - **Name :** 안병민 `An byeong-min`
+  - **Birth :** 1997.12.7.
+  - **Email :** abm1640@naver.com
+  - **Company :** 한신정보기술
+  - **Period :** 2022.11 ~
+  - **Use Skills :** <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+  - **Learning Skills :** <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/next.js-black?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  
+<br>
 
-  # 💬 프로젝트  
+  ## 💬 작업한 프로젝트  
   * **2024**
     - 연천군청 아우른군민 (메인, 서브)
       + [현행페이지](https://www.yeoncheon.go.kr/cyber/index.do)
