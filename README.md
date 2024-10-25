@@ -18,6 +18,21 @@
 
   ## 💬 작업한 프로젝트  
   * **2024**
+    - 동두천 청소년문화의집 (메인, 서브)
+      + [현행페이지](https://cbfarm.chungbuk.go.kr/art/index.do)
+      + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/chungbuk/site/art_2023/main.html)
+    - 충청북도 아쿠아리움 (메인)
+      + [현행페이지](https://cbfarm.chungbuk.go.kr/art/index.do)
+      + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/chungbuk/site/art_2023/main.html)
+    - 한국교원대학교 교육정책전문대학원 (메인)
+      + [현행페이지](https://www.knue.ac.kr/edupol/index.do)
+      + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/yeoncheon/site/cyber/main.html)
+    - 한국교원대학교 대학원 (메인)
+      + [현행페이지](https://www.knue.ac.kr/grad/index.do)
+      + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/yeoncheon/site/cyber/main.html)
+    - 충북인재평생교육진흥원 (메인)
+      + [현행페이지](https://cbfarm.chungbuk.go.kr/art/index.do)
+      + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/chungbuk/site/art_2023/main.html)
     - 연천군청 아우른군민 (메인, 서브)
       + [현행페이지](https://www.yeoncheon.go.kr/cyber/index.do)
       + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/yeoncheon/site/cyber/main.html)
