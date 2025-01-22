@@ -1,6 +1,4 @@
-<img width="1012" alt="안녕하세요! 안병민입니다. 퍼블리셔입니다!" src="https://github.com/byeongmin-publishing/byeongmin-publishing/assets/114711496/8c17fd64-7f84-497d-945f-865423bbc061">
-
-## 🤔 저는
+## 🤔 Intro
 현재 한신정보기술에서 재직 중인 **퍼블리셔 안병민** 입니다!<br>
 **다양한 디바이스 및 브라우저 호환성을 고려한 작업**을 진행합니다.<br>
 [포트폴리오 >](https://byeongmin-publishing.github.io/Portfolio/)
@@ -16,67 +14,153 @@
   
 <br>
 
-  ## 💬 작업한 프로젝트  
-  * **2024**
-    - 동두천 청소년문화의집 (메인, 서브)
-      + [현행페이지](https://cbfarm.chungbuk.go.kr/art/index.do)
-      + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/chungbuk/site/art_2023/main.html)
-    - 충청북도 아쿠아리움 (메인)
-      + [현행페이지](https://www.chungbuk.go.kr/aquarium/index.do)
-      + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/chungbuk/site/art_2023/main.html)
-    - 한국교원대학교 교육정책전문대학원 (메인)
-      + [현행페이지](https://www.knue.ac.kr/edupol/index.do)
-      + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/yeoncheon/site/cyber/main.html)
-    - 한국교원대학교 대학원 (메인)
-      + [현행페이지](https://www.knue.ac.kr/grad/index.do)
-      + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/yeoncheon/site/cyber/main.html)
-    - 충북인재평생교육진흥원 (메인)
-      + [현행페이지](https://www.cbitle.or.kr/www/index.do)
-      + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/chungbuk/site/art_2023/main.html)
-    - 연천군청 아우른군민 (메인, 서브)
-      + [현행페이지](https://www.yeoncheon.go.kr/cyber/index.do)
-      + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/yeoncheon/site/cyber/main.html)
-    - 충청북도 자치경찰위원회 (메인)
-      + [현행페이지](https://www.chungbuk.go.kr/cbppc/index.do)
-      + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/chungbuk/site/cbppc_2024/main.html)
-    - 충청북도 충북도립교향악단 (메인)
-      + [현행페이지](https://cbfarm.chungbuk.go.kr/art/index.do)
-      + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/chungbuk/site/art_2023/main.html)
-  * **2023**
-    - 구리시청 (메인)
-      + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/guri/site/www_2023/main.html)
-    - 구리시 열린시장실 (메인)
-      + [현행페이지](https://www.guri.go.kr/mayor/index.do)
-      + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/guri/site/mayor_2023/main.html)
-    - 충북나드리 (메인)
-      + [현행페이지](https://tour.chungbuk.go.kr/www/index.do)
-      + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/chungbuktour/site/www_2023/index.html)
-    - 충청북도 청년포털 (메인)
-      + [현행페이지](https://www.chungbuk.go.kr/young/index.do)
-      + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/chungbuk/site/young_2023/main.html)
-    - 음성군 열린군수실 (메인)
-      + [현행페이지](https://www.eumseong.go.kr/mayor/index.do)
-      + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/eumseong/site/mayor/main.html)
-    - 음성군 청소년문화의집 (메인)
-      + [현행페이지](https://www.eumseong.go.kr/esyouth/index.do)
-      + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/eumseong/site/esyouth/main.html)
-    - 화학규제지원센터 (메인, 서브)
-      + [현행페이지(한)](https://reach.ktr.or.kr/www/index.do)
-      + [현행페이지(영)](https://reach.ktr.or.kr/en/index.do)
-      + [현행페이지(일)](https://reach.ktr.or.kr/jp/index.do)
-      + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/ktr/site/www/main.html)
-    - 남양주시 남양주시립박물관 (메인)
-      + [현행페이지](https://www.nyj.go.kr/museum/index.do)
-      + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/nyj/site/museum/main.html)
-    - 남양주시 문화관광 (메인)
-      + [현행페이지](https://www.nyj.go.kr/culture/index.do)
-      + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/nyj/site/culture/main.html)
-    - 광명시 공동주택 공동주택 공동체활성화 (메인)
-      + [현행페이지](https://www.gm.go.kr/withapt/index.do)
-      + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/gm/site/withapt/main.html)
-    - 구리시 청년포털 (메인)
-      + [현행페이지](https://www.guri.go.kr/youth/index.do)
-      + [작업페이지](https://byeongmin-publishing.github.io/Portfolio/guri/site/youth/main.html)
+## 💬 Project
+### 2024
+> 동두천 청소년문화의집
+>
+> - 작업 : 메인 / 서브페이지 퍼블리싱
+> - SKills : HTML, CSS, JavaScript, Jquery
+> - [현행페이지](https://www.ddc.go.kr/youthddc/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/chungbuk/site/art_2023/main.html)
+
+<br />
+
+> 충청북도 아쿠아리움
+>
+> - 작업 : 메인페이지 퍼블리싱
+> - SKills : HTML, CSS, JavaScript, Jquery
+> - [현행페이지](https://www.chungbuk.go.kr/aquarium/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/chungbuk/site/art_2023/main.html)
+
+<br />
+
+> 한국교원대학교 교육정책전문대학원
+>
+> - 작업 : 메인페이지 퍼블리싱
+> - SKills : HTML, CSS, JavaScript, Jquery
+> - [현행페이지](https://www.knue.ac.kr/edupol/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/yeoncheon/site/cyber/main.html)
+
+<br />
+
+> 한국교원대학교 대학원
+>
+> - 작업 : 메인페이지 퍼블리싱
+> - SKills : HTML, CSS, JavaScript, Jquery
+> - [현행페이지](https://www.knue.ac.kr/grad/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/yeoncheon/site/cyber/main.html)
+
+<br />
+
+> 충북인재평생교육진흥원
+>
+> 웹접근성 품질인증 마크 취득
+> - 작업 : 메인페이지 퍼블리싱
+> - SKills : HTML, CSS, JavaScript, Jquery
+> - [현행페이지](https://www.cbitle.or.kr/www/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/chungbuk/site/art_2023/main.html)
+
+<br />
+
+> 연천군청 아우른군민
+>
+> - 작업 : 메인, 서브페이지 퍼블리싱
+> - SKills : HTML, CSS, JavaScript, Jquery
+> - [현행페이지](https://www.yeoncheon.go.kr/cyber/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/yeoncheon/site/cyber/main.html)
+
+<br />
+
+> 충청북도 자치경찰위원회
+>
+> - 작업 : 메인페이지 퍼블리싱
+> - SKills : HTML, CSS, JavaScript, Jquery
+> - [현행페이지](https://www.chungbuk.go.kr/cbppc/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/chungbuk/site/cbppc_2024/main.html)
+
+<br />
+
+### 2023
+> 구리시청
+>
+> 퍼블리싱 작업완료 후 시안이 변경되어 현행사이트와 디자인이 다릅니다.
+> - 작업 : 메인페이지 퍼블리싱
+> - SKills : HTML, CSS, JavaScript, Jquery
+> - [작업페이지](https://byeongmin-publishing.github.io/Portfolio/guri/site/www_2023/main.html)
+
+<br />
+
+> 구리시 열린시장실
+>
+> - 작업 : 메인페이지 퍼블리싱
+> - SKills : HTML, CSS, JavaScript, Jquery
+> - [현행페이지](https://www.guri.go.kr/mayor/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/guri/site/mayor_2023/main.html)
+
+<br />
+
+> 충북나드리
+>
+> - 작업 : 메인페이지 퍼블리싱
+> - SKills : HTML, CSS, JavaScript, Jquery
+> - [현행페이지](https://tour.chungbuk.go.kr/www/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/chungbuktour/site/www_2023/index.html)
+
+<br />
+
+> 충청북도 청년포털
+>
+> - 작업 : 메인페이지 퍼블리싱
+> - SKills : HTML, CSS, JavaScript, Jquery
+> - [현행페이지](https://www.chungbuk.go.kr/young/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/chungbuk/site/young_2023/main.html)
+
+<br />
+
+> 음성군 열린군수실
+>
+> - 작업 : 메인페이지 퍼블리싱
+> - SKills : HTML, CSS, JavaScript, Jquery
+> - [현행페이지](https://www.eumseong.go.kr/mayor/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/eumseong/site/mayor/main.html)
+
+<br />
+
+> 음성군 청소년문화의집
+>
+> - 작업 : 메인페이지 퍼블리싱
+> - SKills : HTML, CSS, JavaScript, Jquery
+> - [현행페이지](https://www.eumseong.go.kr/esyouth/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/eumseong/site/esyouth/main.html)
+
+<br />
+
+> 화학규제지원센터
+>
+> - 작업 : 한국어, 외국어 공통 메인 / 서브페이지 퍼블리싱
+> - SKills : HTML, CSS, JavaScript, Jquery
+> - [현행페이지(한)](https://reach.ktr.or.kr/www/index.do) / [현행페이지(영)](https://reach.ktr.or.kr/en/index.do) / [현행페이지(일)](https://reach.ktr.or.kr/jp/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/ktr/site/www/main.html)
+
+<br />
+
+> 남양주시 남양주시립박물관
+>
+> - 작업 : 메인페이지 퍼블리싱
+> - SKills : HTML, CSS, JavaScript, Jquery
+> - [현행페이지](https://www.nyj.go.kr/museum/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/nyj/site/museum/main.html)
+
+<br />
+
+> 남양주시 문화관광
+>
+> - 작업 : 메인페이지 퍼블리싱
+> - SKills : HTML, CSS, JavaScript, Jquery
+> - [현행페이지](https://www.nyj.go.kr/culture/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/nyj/site/culture/main.html)
+
+<br />
+
+> 광명시 공동주택 공동체활성화
+>
+> - 작업 : 메인페이지 퍼블리싱
+> - SKills : HTML, CSS, JavaScript, Jquery
+> - [현행페이지](https://www.gm.go.kr/withapt/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/gm/site/withapt/main.html)
+
+<br />
+
+> 구리시 청년포털
+>
+> - 작업 : 메인페이지 퍼블리싱
+> - SKills : HTML, CSS, JavaScript, Jquery
+> - [현행페이지](https://www.guri.go.kr/youth/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/guri/site/youth/main.html)
+
 <!--
 **byeongmin-publishing/byeongmin-publishing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
