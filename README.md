@@ -76,7 +76,7 @@
 ### 2023
 > 구리시청
 >
-> ❗ 퍼블리싱 작업완료 후 시안이 변경되어 현행사이트와 디자인이 다릅니다.
+> ❗ 퍼블리싱 작업완료 후 시안이 변경되었습니다.
 > - 작업 : 메인페이지 퍼블리싱
 > - SKills : HTML, CSS, JavaScript, Jquery
 > - [작업페이지](https://byeongmin-publishing.github.io/Portfolio/guri/site/www_2023/main.html)
