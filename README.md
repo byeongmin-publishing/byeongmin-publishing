@@ -24,49 +24,48 @@
 
 <br />
 
-> 충청북도 아쿠아리움
->
+> ### 충청북도 아쿠아리움
+> 반응형 / 크로스 브라우징
 > - 작업 : 메인페이지 퍼블리싱
 > - SKills : HTML, CSS, JavaScript, Jquery
 > - [현행페이지](https://www.chungbuk.go.kr/aquarium/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/chungbuk/site/art_2023/main.html)
 
 <br />
 
-> 한국교원대학교 교육정책전문대학원
->
+> ### 한국교원대학교 교육정책전문대학원
+> 반응형 / 크로스 브라우징
 > - 작업 : 메인페이지 퍼블리싱
 > - SKills : HTML, CSS, JavaScript, Jquery
 > - [현행페이지](https://www.knue.ac.kr/edupol/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/yeoncheon/site/cyber/main.html)
 
 <br />
 
-> 한국교원대학교 대학원
->
+> ### 한국교원대학교 대학원
+> 반응형 / 크로스 브라우징
 > - 작업 : 메인페이지 퍼블리싱
 > - SKills : HTML, CSS, JavaScript, Jquery
 > - [현행페이지](https://www.knue.ac.kr/grad/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/yeoncheon/site/cyber/main.html)
 
 <br />
 
-> 충북인재평생교육진흥원
->
-> ❗ 웹접근성 품질인증 마크 취득
+> ### 충북인재평생교육진흥원
+> **웹접근성 품질인증 마크 취득 반응형** / 반응형 / 크로스 브라우징
 > - 작업 : 메인페이지 퍼블리싱
 > - SKills : HTML, CSS, JavaScript, Jquery
 > - [현행페이지](https://www.cbitle.or.kr/www/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/chungbuk/site/art_2023/main.html)
 
 <br />
 
-> 연천군청 아우른군민
->
+> ### 연천군청 아우른군민
+> 반응형 / 크로스 브라우징
 > - 작업 : 메인, 서브페이지 퍼블리싱
 > - SKills : HTML, CSS, JavaScript, Jquery
 > - [현행페이지](https://www.yeoncheon.go.kr/cyber/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/yeoncheon/site/cyber/main.html)
 
 <br />
 
-> 충청북도 자치경찰위원회
->
+> ### 충청북도 자치경찰위원회
+> 반응형 / 크로스 브라우징
 > - 작업 : 메인페이지 퍼블리싱
 > - SKills : HTML, CSS, JavaScript, Jquery
 > - [현행페이지](https://www.chungbuk.go.kr/cbppc/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/chungbuk/site/cbppc_2024/main.html)
@@ -74,89 +73,88 @@
 <br />
 
 ### 2023
-> 구리시청
->
-> ❗ 퍼블리싱 작업완료 후 시안이 변경되었습니다.
+> ### 구리시청
+> **퍼블리싱 작업완료 후 시안이 변경되었습니다.** / 반응형 / 크로스 브라우징
 > - 작업 : 메인페이지 퍼블리싱
 > - SKills : HTML, CSS, JavaScript, Jquery
 > - [작업페이지](https://byeongmin-publishing.github.io/Portfolio/guri/site/www_2023/main.html)
 
 <br />
 
-> 구리시 열린시장실
->
+> ### 구리시 열린시장실
+> 반응형 / 크로스 브라우징
 > - 작업 : 메인페이지 퍼블리싱
 > - SKills : HTML, CSS, JavaScript, Jquery
 > - [현행페이지](https://www.guri.go.kr/mayor/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/guri/site/mayor_2023/main.html)
 
 <br />
 
-> 충북나드리
->
+> ### 충북나드리
+> 반응형 / 크로스 브라우징
 > - 작업 : 메인페이지 퍼블리싱
 > - SKills : HTML, CSS, JavaScript, Jquery
 > - [현행페이지](https://tour.chungbuk.go.kr/www/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/chungbuktour/site/www_2023/index.html)
 
 <br />
 
-> 충청북도 청년포털
->
+> ### 충청북도 청년포털
+> 반응형 / 크로스 브라우징
 > - 작업 : 메인페이지 퍼블리싱
 > - SKills : HTML, CSS, JavaScript, Jquery
 > - [현행페이지](https://www.chungbuk.go.kr/young/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/chungbuk/site/young_2023/main.html)
 
 <br />
 
-> 음성군 열린군수실
->
+> ### 음성군 열린군수실
+> 반응형 / 크로스 브라우징
 > - 작업 : 메인페이지 퍼블리싱
 > - SKills : HTML, CSS, JavaScript, Jquery
 > - [현행페이지](https://www.eumseong.go.kr/mayor/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/eumseong/site/mayor/main.html)
 
 <br />
 
-> 음성군 청소년문화의집
->
+> ### 음성군 청소년문화의집
+> 반응형 / 크로스 브라우징
 > - 작업 : 메인페이지 퍼블리싱
 > - SKills : HTML, CSS, JavaScript, Jquery
 > - [현행페이지](https://www.eumseong.go.kr/esyouth/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/eumseong/site/esyouth/main.html)
 
 <br />
 
-> 화학규제지원센터
->
+> ### 화학규제지원센터
+> 반응형 / 크로스 브라우징
 > - 작업 : 한국어, 외국어 공통 메인 / 서브페이지 퍼블리싱
 > - SKills : HTML, CSS, JavaScript, Jquery
 > - [현행페이지(한)](https://reach.ktr.or.kr/www/index.do) / [현행페이지(영)](https://reach.ktr.or.kr/en/index.do) / [현행페이지(일)](https://reach.ktr.or.kr/jp/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/ktr/site/www/main.html)
 
 <br />
 
-> 남양주시 남양주시립박물관
->
+> ### 남양주시 남양주시립박물관
+> 반응형 / 크로스 브라우징
 > - 작업 : 메인페이지 퍼블리싱
 > - SKills : HTML, CSS, JavaScript, Jquery
 > - [현행페이지](https://www.nyj.go.kr/museum/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/nyj/site/museum/main.html)
 
 <br />
 
-> 남양주시 문화관광
->
+> ### 남양주시 문화관광
+> 반응형 / 크로스 브라우징
 > - 작업 : 메인페이지 퍼블리싱
 > - SKills : HTML, CSS, JavaScript, Jquery
 > - [현행페이지](https://www.nyj.go.kr/culture/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/nyj/site/culture/main.html)
 
 <br />
 
-> 광명시 공동주택 공동체활성화
->
+> ### 광명시 공동주택 공동체활성화
+> 반응형 / 크로스 브라우징
 > - 작업 : 메인페이지 퍼블리싱
 > - SKills : HTML, CSS, JavaScript, Jquery
 > - [현행페이지](https://www.gm.go.kr/withapt/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/gm/site/withapt/main.html)
 
 <br />
 
-> 구리시 청년포털
->
+> ### 구리시 청년포털
+> 반응형 / 크로스 브라우징
 > - 작업 : 메인페이지 퍼블리싱
 > - SKills : HTML, CSS, JavaScript, Jquery
 > - [현행페이지](https://www.guri.go.kr/youth/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/guri/site/youth/main.html)
