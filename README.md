@@ -16,8 +16,8 @@
 
 ## 💬 Project
 ### 2024
-> 동두천 청소년문화의집
->
+> ### 동두천 청소년문화의집
+> 반응형 / 크로스 브라우징
 > - 작업 : 메인 / 서브페이지 퍼블리싱
 > - SKills : HTML, CSS, JavaScript, Jquery
 > - [현행페이지](https://www.ddc.go.kr/youthddc/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/chungbuk/site/art_2023/main.html)
