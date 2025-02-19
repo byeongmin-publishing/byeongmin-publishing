@@ -1,7 +1,7 @@
 ## 🤔 Intro
 현재 한신정보기술에서 재직 중인 **퍼블리셔 안병민** 입니다!<br>
 **다양한 디바이스 및 브라우저 호환성을 고려한 작업**을 진행합니다.<br>
-<!--[포트폴리오 >](https://byeongmin-publishing.github.io/Portfolio/)-->
+
   
 ### **Profile**
  - **Name :** 안병민 `An byeong-min`
@@ -31,21 +31,7 @@
 > - [현행페이지](https://www.chungbuk.go.kr/aquarium/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/chungbuk/site/art_2023/main.html)
 
 <br />
-<!--
-> ### 한국교원대학교 교육정책전문대학원
-> 반응형 / 크로스 브라우징
-> - 작업 : 메인페이지 퍼블리싱
-> - SKills : HTML, CSS, JavaScript, Jquery
-> - [현행페이지](https://www.knue.ac.kr/edupol/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/yeoncheon/site/cyber/main.html)
 
-<br />
-
-> ### 한국교원대학교 대학원
-> 반응형 / 크로스 브라우징
-> - 작업 : 메인페이지 퍼블리싱
-> - SKills : HTML, CSS, JavaScript, Jquery
-> - [현행페이지](https://www.knue.ac.kr/grad/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/yeoncheon/site/cyber/main.html)
--->
 <br />
 
 > ### 충북인재평생교육진흥원
