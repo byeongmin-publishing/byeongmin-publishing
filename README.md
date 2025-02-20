@@ -33,7 +33,7 @@
 <br />
 
 > ### 충북인재평생교육진흥원
-> **웹접근성 품질인증 마크 취득 반응형** / 반응형 / 크로스 브라우징
+> **웹접근성 품질인증 마크 취득** / 반응형 / 크로스 브라우징
 > - 작업 : 메인페이지 퍼블리싱
 > - SKills : HTML, CSS, JavaScript, Jquery
 > - [현행페이지](https://www.cbitle.or.kr/www/index.do) / [작업페이지](https://byeongmin-publishing.github.io/Portfolio/chungbuk/site/art_2023/main.html)
